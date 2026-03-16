@@ -40,7 +40,7 @@ sudo pacman -S ffmpeg
 
 ### Step 1: Make a Python environment, so that you don't litter your system with packages
 
-Here are some [extend instructions](https://www.w3schools.com/python/python_virtualenv.asp).
+Here are some [extended instructions](https://www.w3schools.com/python/python_virtualenv.asp).
 
 ```python
 
